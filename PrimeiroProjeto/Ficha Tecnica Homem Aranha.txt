@@ -1,0 +1,6 @@
+﻿Compilação iniciada...
+1>------ Compilação iniciada: Projeto: PrimeiroProjeto, Configuração: Debug Any CPU ------
+1>Ignorando analisadores para acelerar a construção. Você pode executar o comando 'Build' ou 'Rebuild' para executar os analisadores.
+1>PrimeiroProjeto -> C:\Aprendizado\Aula de C#\Projetos\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net7.0\PrimeiroProjeto.dll
+========== Compilação: 1 bem-sucedida, 0 com falha, 0 atualizada, 0 ignorada ==========
+========== Compilação começou em 00:18 e levou 00,257 segundos ==========
